@@ -1,9 +1,9 @@
 FTP Ripper 0.7.0.0 beta
 =======================
-(c) 2008-2015 [Rafał Toborek](http://toborek.info)
+(c) 2008-2015 [Rafał Toborek](https://toborek.info)
 
-Download latest compiled version at [author's home page](http://api.toborek.info/pobierz/ftprip07.zip).
-Sources are available at [GitHub](http://github.com/clash82/FTPRipper).
+Download latest binary version at [author's home page](https://api.toborek.info/download/ftprip07.zip).
+Sources are available at [GitHub](https://github.com/clash82/FTPRipper).
 
 FTP Ripper allows you to create mirror backup of your FTP servers content. Operation is executed as one batch process. You can easily add new server to list by modifying INI file. Downloaded files can be then compressed using external applications (eg. RAR).
 
